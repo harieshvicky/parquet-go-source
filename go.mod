@@ -20,7 +20,7 @@ require (
 	github.com/spf13/afero v1.2.2
 	github.com/stretchr/testify v1.7.1
 	github.com/xitongsys/parquet-go v1.5.1
-	gocloud.dev v0.26.0
+	gocloud.dev v0.40.0
 )
 
 require (
